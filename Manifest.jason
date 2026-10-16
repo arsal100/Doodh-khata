@@ -1,0 +1,27 @@
+
+{
+  "id": "./",
+  "name": "Doodh Khata - Dairy Management",
+  "short_name": "Doodh Khata",
+  "description": "Dairy milk collection, billing, payments and farm records.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f7f8f4",
+  "theme_color": "#245c45",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
